@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Myreceipt</string>
+
+    <!-- Accessibility -->
+    <string name="receipt_photo_button_description">Take photo of receipt scene</string>
+    <string name="receipt_photo_no_image_description">
+        Receipt scene photo (not set)
+    </string>
+    <string name="receipt_photo_image_description">
+        Receipt scene photo (set)
+    </string>
+    <string name="photo_announcement">A new receipt photo has been set.</string>
+
+    <string name="dialog_time_title">Select time of Receipt</string>
+    <string name="dialog_date_title">Select Receipt date</string>
+    <string name="dialog_image_title">Image of Receipt</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+
+
+    <!-- Receipt Report -->
+    <string name="receipt_report">%1$s!
+        The receipt was discovered on %2$s at %3$s. %4$s, and %5$s
+    </string>
+    <string name="receipt_report_solved">The case is solved</string>
+    <string name="receipt_report_unsolved">The case is not solved</string>
+    <string name="receipt_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send receipt report via</string>
+
+    <string name="new_receipt">New</string>
+    <string name="help_receipt">Help</string>
+    <string name="delete_receipt">Delete</string>
+
+    <string name="receipt_title_hint">Enter a title for the receipt.</string>
+    <string name="receipt_title_label">Title</string>
+    <string name="receipt_shop_hint">Enter a shop name for the receipt.</string>
+    <string name="receipt_shop_label">Shop Name</string>
+    <string name="receipt_comment_hint">Enter a comment for the receipt.</string>
+    <string name="receipt_comment_label">Comment</string>
+    <string name="receipt_report_text">Report receipt</string>
+
+    <string name="empty_view_text_view">There are no receipts...yet</string>
+    <string name="empty_view_add_button">create new receipt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Toast messages -->
+    <string name="toast_delete_receipt">Receipt has been deleted</string>
+    <string name="show_in_map">Show in map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
